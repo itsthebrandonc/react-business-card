@@ -1,0 +1,29 @@
+h1, h3 {
+  margin-top: 25px;
+  line-height: 0px;
+}
+
+img#info--profilePic {
+  height: 250px;
+  width: 100%;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+#info--btnEmail {
+  background-color: white;
+  color: black;
+}
+
+#info--btnLinkedIn {
+  background-color: #5194E2;
+  color: white;
+}
+
+#info--name {
+  font-size: 30px;
+}
+
+#info--job {
+  color: #8C7161;
+}
