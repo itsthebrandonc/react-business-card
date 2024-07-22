@@ -8,7 +8,7 @@ export default function Footer() {
       <a href="https://x.com/BrandnCarlisle" target="_blank">
         <img className="info--logoImg" src={img_XTwitter}/>
       </a>
-      <a href="https://github.com/itsthebrandonc" target="_blank">
+      <a href="https://github.com/itsthebrandonc/react-business-card" target="_blank">
         <img className="info--logoImg" src={img_Github}/>
       </a>
     </div>
